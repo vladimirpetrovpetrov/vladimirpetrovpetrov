@@ -28,5 +28,5 @@
 <h3>Certificates</h3>
 <ul>
 <li><a href="Programming Basics - September 2022 - Certificate.jpeg">Programming Basics with C#</a></li>
-<li><a href="Programming Fundamentals with C# - January 2023 - Certificate</a>Programming Fundamentals with C#</li>
+<li><a href="Programming Fundamentals with C# - January 2023 - Certificate.jpeg">Programming Fundamentals with C#</a></li>
 </ul>
