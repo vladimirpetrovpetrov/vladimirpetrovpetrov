@@ -29,7 +29,7 @@
 <ul>
 <li><a href="Programming Basics - September 2022 - Certificate.jpeg">Programming Basics with C#</a></li>
 <li><a href="https://github.com/survivorbg/survivorbg/blob/main/Programming%20Fundamentals%20with%20C%23%20-%20January%202023%20-%20Certificate.jpeg">Programming Fundamentals with C#</a></li>
-<li><a href="C# Advanced - May 2023 - Certificate.jpeg">C# Advanced</a></li>
+<li><a href="https://github.com/survivorbg/survivorbg/blob/main/C%23%20Advanced%20-%20May%202023%20-%20Certificate.jpeg">C# Advanced</a></li>
 <li>C# OOP - In progress
 
 
