@@ -26,21 +26,15 @@
 
 <hr>
 <h3>Certificates</h3>
-<div style="display: flex; flex-wrap: wrap;">
-    <div style="width: 50%;">
-        <ul>
+<h3>Certificates</h3>
+<ul>
             <li><a href="Programming Basics - September 2022 - Certificate.jpeg">Programming Basics with C#</a></li>
             <li><a href="https://github.com/survivorbg/survivorbg/blob/main/Programming%20Fundamentals%20with%20C%23%20-%20January%202023%20-%20Certificate.jpeg">Programming Fundamentals with C#</a></li>
             <li><a href="https://github.com/survivorbg/survivorbg/blob/main/C%23%20Advanced%20-%20May%202023%20-%20Certificate.jpeg">C# Advanced</a></li>
             <li><a href="https://github.com/survivorbg/survivorbg/blob/main/C%23%20OOP%20-%20June%202023%20-%20Certificate.jpeg">C# OOP</a></li>
-        </ul>
-    </div>
-    <div style="width: 50%;">
-        <ul>
             <li><a href="https://github.com/survivorbg/survivorbg/blob/main/MS%20SQL%20-%20September%202023%20-%20Certificate.jpeg">MS SQL</a></li>
             <li><a href="https://github.com/survivorbg/survivorbg/blob/main/Entity%20Framework%20Core%20-%20October%202023%20-%20Certificate.jpeg">Entity Framework Core</a></li>
             <li>HTML & CSS - in progress...</li>
             <li>ASP.NET Fundamentals - in progress...</li>
-        </ul>
-    </div>
-</div>
+</ul>
+
