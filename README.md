@@ -33,7 +33,6 @@
             <li><a href="https://github.com/survivorbg/survivorbg/blob/main/C%23%20OOP%20-%20June%202023%20-%20Certificate.jpeg">C# OOP</a></li>
             <li><a href="https://github.com/survivorbg/survivorbg/blob/main/MS%20SQL%20-%20September%202023%20-%20Certificate.jpeg">MS SQL</a></li>
             <li><a href="https://github.com/survivorbg/survivorbg/blob/main/Entity%20Framework%20Core%20-%20October%202023%20-%20Certificate.jpeg">Entity Framework Core</a></li>
-            <li>HTML & CSS - in progress...</li>
+            <li><a href="https://github.com/survivorbg/survivorbg/blob/main/HTML%20%26%20CSS%20-%20January%202024%20-%20Certificate.jpeg">HTML & CSS</a></li>
             <li>ASP.NET Fundamentals - in progress...</li>
 </ul>
-
