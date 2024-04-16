@@ -35,6 +35,12 @@
             <li><a href="https://github.com/survivorbg/survivorbg/blob/main/Entity%20Framework%20Core%20-%20October%202023%20-%20Certificate.jpeg">Entity Framework Core</a></li>
             <li><a href="https://github.com/survivorbg/survivorbg/blob/main/HTML%20%26%20CSS%20-%20January%202024%20-%20Certificate.jpeg">HTML & CSS</a></li>
             <li><a href="https://github.com/survivorbg/survivorbg/blob/main/ASP.NET%20Fundamentals%20-%20January%202024%20-%20Certificate.jpeg">ASP.NET Fundamentals</a></li>
+<<<<<<< HEAD
             <li><a href="https://github.com/survivorbg/survivorbg/blob/main/JS%20Front-End%20-%20February%202024%20-%20Certificate.jpeg">JS Front-End</a></li>
             <li>Advanced - in progress ...</li>
 </ul>
+=======
+            <li>ASP.NET Advanced - in progress ...</li>
+            <li>JS Front-End - in progress ...</li>
+</ul>
+>>>>>>> parent of 5e9427e (Updating Certificates)
