@@ -36,6 +36,6 @@
             <li><a href="https://github.com/survivorbg/survivorbg/blob/main/HTML%20%26%20CSS%20-%20January%202024%20-%20Certificate.jpeg">HTML & CSS</a></li>
             <li><a href="https://github.com/survivorbg/survivorbg/blob/main/ASP.NET%20Fundamentals%20-%20January%202024%20-%20Certificate.jpeg">ASP.NET Fundamentals</a></li>
             <li><a href="https://github.com/survivorbg/survivorbg/blob/main/JS%20Front-End%20-%20February%202024%20-%20Certificate.jpeg">JS Front-End</a></li>
-            <li>ASP.NET Advanced - in progress ...</li>
+            <li><a href="https://github.com/survivorbg/survivorbg/blob/main/ASP.NET%20Advanced%20-%20February%202024%20-%20Certificate.jpeg">ASP.NET Advanced</a></li>
              
 </ul>
