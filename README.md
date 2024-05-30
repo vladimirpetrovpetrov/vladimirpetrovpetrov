@@ -27,16 +27,16 @@
 <hr>
 <h3>Certificates</h3>
 <ul>
-            <li><a href="Programming Basics - September 2022 - Certificate.jpeg">Programming Basics with C#</a></li>
-            <li><a href="https://github.com/survivorbg/survivorbg/blob/main/Programming%20Fundamentals%20with%20C%23%20-%20January%202023%20-%20Certificate.jpeg">Programming Fundamentals with C#</a></li>
-            <li><a href="https://github.com/survivorbg/survivorbg/blob/main/C%23%20Advanced%20-%20May%202023%20-%20Certificate.jpeg">C# Advanced</a></li>
-            <li><a href="https://github.com/survivorbg/survivorbg/blob/main/C%23%20OOP%20-%20February%202024%20-%20Certificate.jpeg">C# OOP</a></li>
-            <li><a href="https://github.com/survivorbg/survivorbg/blob/main/MS%20SQL%20-%20September%202023%20-%20Certificate.jpeg">MS SQL</a></li>
-            <li><a href="https://github.com/survivorbg/survivorbg/blob/main/Entity%20Framework%20Core%20-%20October%202023%20-%20Certificate.jpeg">Entity Framework Core</a></li>
-            <li><a href="https://github.com/survivorbg/survivorbg/blob/main/HTML%20%26%20CSS%20-%20January%202024%20-%20Certificate.jpeg">HTML & CSS</a></li>
-            <li><a href="https://github.com/survivorbg/survivorbg/blob/main/ASP.NET%20Fundamentals%20-%20January%202024%20-%20Certificate.jpeg">ASP.NET Fundamentals</a></li>
-            <li><a href="https://github.com/survivorbg/survivorbg/blob/main/JS%20Front-End%20-%20February%202024%20-%20Certificate.jpeg">JS Front-End</a></li>
             <li><a href="https://github.com/survivorbg/survivorbg/blob/main/ASP.NET%20Advanced%20-%20February%202024%20-%20Certificate.jpeg">ASP.NET Advanced</a></li>
+            <li><a href="https://github.com/survivorbg/survivorbg/blob/main/ASP.NET%20Fundamentals%20-%20January%202024%20-%20Certificate.jpeg">ASP.NET Fundamentals</a></li>
+            <li><a href="https://github.com/survivorbg/survivorbg/blob/main/Entity%20Framework%20Core%20-%20October%202023%20-%20Certificate.jpeg">Entity Framework Core</a></li>
+            <li><a href="https://github.com/survivorbg/survivorbg/blob/main/JS%20Front-End%20-%20February%202024%20-%20Certificate.jpeg">JS Front-End</a></li>
+            <li><a href="https://github.com/survivorbg/survivorbg/blob/main/MS%20SQL%20-%20September%202023%20-%20Certificate.jpeg">MS SQL</a></li>
+            <li><a href="https://github.com/survivorbg/survivorbg/blob/main/C%23%20OOP%20-%20February%202024%20-%20Certificate.jpeg">C# OOP</a></li>
+            <li><a href="https://github.com/survivorbg/survivorbg/blob/main/C%23%20Advanced%20-%20May%202023%20-%20Certificate.jpeg">C# Advanced</a></li>
+            <li><a href="https://github.com/survivorbg/survivorbg/blob/main/HTML%20%26%20CSS%20-%20January%202024%20-%20Certificate.jpeg">HTML & CSS</a></li>
+            <li><a href="https://github.com/survivorbg/survivorbg/blob/main/Programming%20Fundamentals%20with%20C%23%20-%20January%202023%20-%20Certificate.jpeg">Programming Fundamentals with C#</a></li>
+            <li><a href="Programming Basics - September 2022 - Certificate.jpeg">Programming Basics with C#</a></li>
             <li>Software Engineering and DevOps - In progress...</li>
             <li>Containers and Cloud - In progress...</li>
 </ul>
