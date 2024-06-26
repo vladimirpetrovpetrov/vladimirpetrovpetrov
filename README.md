@@ -14,8 +14,6 @@
 </div>
 <hr>
 
-- I’m student at Software University (SoftUni)
-  
 - .Net Environment
   
 - How to reach me: [vladimirpetrovpetrov@gmail.com](mailto:vladimirpetrovpetrov@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
