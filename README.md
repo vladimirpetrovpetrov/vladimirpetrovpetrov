@@ -20,7 +20,7 @@
 
 <hr>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=survivorbg&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vladimirpetrovpetrov&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <hr>
 <h3>Certificates</h3>
