@@ -14,7 +14,7 @@
 </div>
 <hr>
 
-- Junior .Net Developer
+- .Net Developer
   
 - How to reach me: [vladimirpetrovpetrov@gmail.com](mailto:vladimirpetrovpetrov@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
